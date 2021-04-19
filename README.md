@@ -1,6 +1,4 @@
-# Portfolio
-
-Future and ongoing projects:
+## Future and ongoing projects:
 * Regularization
 * Clustering
 
