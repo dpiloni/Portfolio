@@ -1,3 +1,9 @@
+## Contacts
+Mail: daniele.piloni93@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/daniele-piloni/
+
+
 ## Future and ongoing projects:
 * Regularization
 * Clustering
